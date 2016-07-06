@@ -1,0 +1,10 @@
+endpoint-1:
+  name: Chris
+  params: {id}
+  model: "chrispotter/endpoint-1.js"
+endpoint-2:
+  name: Potter
+  model: "chrispotter/endpoint-2.js"
+endpoint-3:
+  name: app
+  model: "chrispotter/endpoint-3.js"

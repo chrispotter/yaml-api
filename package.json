@@ -1,0 +1,17 @@
+{
+  "name": "yaml_api",
+  "version": "1.0.0",
+  "description": "Concept for a yaml driven API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test case at the moment.\""
+  },
+  "dependencies":{
+    "express"   : "*",
+    "js-yaml" : "*",
+    "lodash"    : "*",
+    "var": "*"
+  },
+  "author": "Chris Potter",
+  "license": "MIT"
+}
